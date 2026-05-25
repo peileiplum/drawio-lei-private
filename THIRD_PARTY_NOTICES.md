@@ -1,6 +1,15 @@
-ISC License
+# Third-Party Notices
 
-Copyright (c) 2026, Lei Pei
+This project is based on and includes portions derived from:
+
+- `bahayonghang/drawio-skills`
+- Upstream URL: https://github.com/bahayonghang/drawio-skills
+- Upstream license: ISC
+
+The upstream project declares the ISC license in its package metadata. This
+repository keeps the same ISC license for the combined work.
+
+## ISC License
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above

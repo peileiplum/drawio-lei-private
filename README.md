@@ -164,7 +164,11 @@ node --test "**/*.test.js"
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE).
+This project is licensed under the ISC License. See [LICENSE](LICENSE).
+
+`drawio-lei` is based on and includes portions derived from
+[`bahayonghang/drawio-skills`](https://github.com/bahayonghang/drawio-skills),
+which also declares the ISC license. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
 ## Private Repo Notes
 
