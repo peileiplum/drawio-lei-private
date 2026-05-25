@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "description": "CLI helpers for generating, validating, and exporting draw.io network and DevOps diagrams.",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "test": "node --test \"**/*.test.js\"",

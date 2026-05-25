@@ -162,6 +162,10 @@ Current expected test command:
 node --test "**/*.test.js"
 ```
 
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE).
+
 ## Private Repo Notes
 
 This repo is prepared for private GitHub use. Do not commit `node_modules`, generated exports, local logs, or temporary preview files.
