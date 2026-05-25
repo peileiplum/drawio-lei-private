@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+scripts/node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+
+# Environment and local overrides
+.env
+.env.*
+!.env.example
+
+# Generated diagram outputs
+*.tmp
+*.bak
+*.preview.*
+*.generated.*
+output.drawio
+output.svg
+output.png
+output.pdf
+output.jpg
+output.jpeg
+
+# Local package archives
+*.tgz

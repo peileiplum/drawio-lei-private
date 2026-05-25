@@ -1,0 +1,4 @@
+interface:
+  display_name: "Drawio Lei"
+  short_description: "Engineering-first draw.io workflow"
+  default_prompt: "Use $drawio-lei to create or refine an engineering diagram with an editable offline bundle and desktop export when available."
